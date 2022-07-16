@@ -1,0 +1,63 @@
+/* Footer{
+    background-color: #fff;
+    padding: 35px;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 3.5%;
+    margin-bottom: 0px;
+} */
+footer {
+    position: absolute;
+    width: 90%;
+    height: 15%;
+    right: 5%;
+    left: 5%;
+    top: 85%;
+    
+    background: (rgb(255, 255, 255));
+}
+.left {
+    background-color: transparent;
+    margin-left: 10px;
+    display: inline-block;
+    margin-right: 20px;
+}
+.right {
+    background-color: transparent;
+    display: inline-block;
+}
+.prev{
+    background-color: transparent;
+    font-family: 'TradeGothic LT CondEighteen';
+    margin-left: 10%;
+    
+}
+.next{
+    background-color: transparent;
+    font-family: 'TradeGothic LT CondEighteen';
+    margin-left: -2100%;
+    
+}
+.add_to_cart{
+    float: right;
+    margin-top: -12%;
+}
+/* .Arrowright{
+    background-color: transparent;
+    width: 50px;
+    display: block;
+}
+.Arrowleft{
+    background-color: transparent;
+    width: 50px;
+    display: block; */
+/* } */
+.footer-right{
+    float: right;
+    font-family: 'TradeGothic LT CondEighteen';
+    background-color: transparent;
+}
+span{
+    background-color: transparent;
+    
+}

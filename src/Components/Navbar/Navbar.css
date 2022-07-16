@@ -1,0 +1,71 @@
+/* .logo{
+    margin-left: 5%;
+    margin-top: 4.5%;
+    height: 35px;
+    width: 98.98px;
+    left: 1.05%;
+    right: 0.95%;
+    top: 1.06%;
+    bottom: 1.92%;
+} */
+
+ .logo{
+    position: absolute;
+    left: 1.05%;
+    right: 0.95%;
+    top: 1.06%;
+    bottom: 1.92%;
+    margin-left: 4.5%;
+    margin-top: 4.5%;
+} 
+
+
+.nav-center {
+    position: relative;
+    width: 130px;
+    height: 29px;
+    left: 30%;
+    top: 69px;
+    font-family: 'TradeGothic LT CondEighteen';
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-right: 0;
+
+}
+a{
+    margin-right: 50px;
+    text-decoration: none;
+    color: #131212;
+    display: inline-table;
+    
+}
+
+.nav-right{
+    position: absolute;
+    width: 130px;
+    height: 29px;
+    left: 30%;
+    top: 69px;
+    font-family: 'TradeGothic LT CondEighteen';
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 24px;
+    display: flex;
+    align-items: right;
+    text-align: right;
+    
+}
+.account{
+    width: 30px;
+    float: right;
+    margin-left: 675%;
+}
+.bag{
+    width: 30px;
+    float: right;
+    margin-right: 7%;
+}

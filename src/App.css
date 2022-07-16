@@ -1,0 +1,201 @@
+*{
+  background-color: #E5E5E5;
+  background-blend-mode: normal;
+  background: url(Air_Edge_270.png);
+  background-repeat: no-repeat;
+  background-origin: left;
+  background-attachment: fixed;
+  background-position-X: 40% ;
+  background-size: 55%;
+}
+
+/* ----------------------------------------------------------------------------------------------
+                                          Left section
+------------------------------------------------------------------------------------------------                   */
+
+h2{
+  /* Men's Shoe */
+
+  position: absolute;
+  width: 87px;
+  height: 24px;
+  left: 121px;
+  top: 268px;
+
+  font-family: 'TradeGothic LT CondEighteen';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;  
+  margin-left: -2.5%;
+  margin-top: -3%;
+  
+}
+
+h1{
+  /* NIKE AIR EDGE 270 */
+
+  position: absolute;
+  width: 533px;
+  height: 86px;
+  left: 120px;
+  top: 304px;
+  font-family: 'TradeGothic LT CondEighteen';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 86px;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #131212;
+  margin-left: -2.5%;
+  margin-top: -4%;
+}
+
+.p1{
+  position: absolute;
+  width: 488px;
+  height: 60px;
+  left: 120px;
+  top: 414px;
+  margin-left: -2.5%;
+  font-family: 'HelveticaNeue';
+  font-size: 15px;
+  line-height: 155%;
+  /* or 150% */
+  margin-top: -5.5%;
+
+  color: #131212;
+
+  opacity: 0.5; 
+}
+
+.p3{
+  /* Scroll down */
+
+
+position: absolute;
+width: 123px;
+height: 29px;
+left: 120px;
+top: 850px;
+
+font-family: 'TradeGothic LT CondEighteen';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #131212;
+
+transform: rotate(-90deg);
+}
+
+/* ----------------------------------------------------------------------------------------------
+                                          Main section
+------------------------------------------------------------------------------------------------                   */
+.ctrl{
+  mix-blend-mode: normal;
+  width: 67%;
+  margin-top: 30%;
+  margin-left: 20%;
+}
+
+/* ----------------------------------------------------------------------------------------------
+                                          Right section
+------------------------------------------------------------------------------------------------                   */
+
+.right {
+  float: right;
+}
+
+.Size {
+  position: absolute;
+  width: 128px;
+  height: 24px;
+  left: 1480px;
+  top: 268px;
+  font-family: 'TradeGothic LT CondEighteen';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #131212;
+  margin-left: -20%;
+  margin-top: -3%;
+  }
+  
+  .Sizes{
+    margin-left: -14%;
+    margin-top: 70%;
+    width: 90%;
+  }
+  
+  .Color {
+    /* Select Color */
+  
+  
+  position: absolute;
+  width: 105px;
+  height: 24px;
+  left: 1480px;
+  top: 484px;
+  
+  font-family: 'TradeGothic LT CondEighteen';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  /* identical to box height */
+  
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  
+  color: #131212;
+  margin-left: -20%;
+  margin-top: -5%;
+  }
+  
+  .Color1 {
+    position: absolute;
+    margin-top: 26.5%;
+    margin-left:-18.5%;
+  }
+  .Color2 {
+    position: absolute;
+    margin-top: 26.5%;
+    margin-left:-14.5%;
+  }
+  .Color3 {
+    position: absolute;
+    margin-top: 26.5%;
+    margin-left:-10.5%;
+  }
+  .Color4 {
+    position: absolute;
+    margin-top: 26.5%;
+    margin-left:-6.5%;
+  }
+  .Color5 {
+    position: absolute;
+    margin-top: 26.5%;
+    margin-left: -2.5%;
+  }
+
+  .social, .instagram, .facebook, .twitter {
+    flex-direction: column;
+    flex: left;
+    margin-top: 100px;
+  }
