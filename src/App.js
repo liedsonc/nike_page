@@ -13,7 +13,7 @@ function App() {
       
       <Front />
       
-      <Footer className="Footer" />
+      <Footer id="Footer" />
     </div>
   );
 }
